@@ -1,0 +1,2 @@
+# curso-docker
+Curso com o básico para o Docker, utilizando os comandos básicos, coordenando múltiplos containers e gerando Envio de e-mails com Workers  Utilizando o Docker Compose para Referenciar Imagens para que os disparos dos Containers sejam feitos de forma correta de acordo com a necessidade e arquitetura do projeto.  Banco: MongoDB BackEnd: Node.JS FrontEnd: Nginx  No envio do e-mail, foi utilizado uma solucao assincrona para que o envio do email seja feito de forma escalável.
